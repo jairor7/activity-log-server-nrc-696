@@ -1,0 +1,31 @@
+{
+  "name": "activity-log-server-nrc-696",
+  "version": "1.0.0",
+  "description": "Server to activity log",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairor7/activity-log-server-nrc-696.git"
+  },
+  "keywords": [
+    "server",
+    "express"
+  ],
+  "author": "Jairo Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairor7/activity-log-server-nrc-696/issues"
+  },
+  "homepage": "https://github.com/jairor7/activity-log-server-nrc-696#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
